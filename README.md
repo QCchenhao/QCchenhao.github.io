@@ -20,5 +20,3 @@
 * [徕檬面签app store下载链接](https://apps.apple.com/cn/app/徕檬面签/id1536910735 "官网下载地址") 
 * [徕檬面签测试版本下载链接](https://testflight.apple.com/join/5mtVUZI5 "leimonTest分组") 
 
-
-* [oa_protemp](itms-services://?action=download-manifest&url=https://qcchenhao.github.io/oa_pro/temp.plist "点击安装即可安装") 
