@@ -9,8 +9,8 @@
 或者在app store搜索“徕檬OA” 
 两者证书并不相同，oa_pro版本无法获取定位信息
 <br>
-* [oa_pro下载链接](itms-services://?action=download-manifest&url=https://qcchenhao.github.io/oa_pro/manifest.plist "点击安装即可安装") 
 * [徕檬OA app store下载链接](https://apps.apple.com/cn/app/徕檬oa/id1536723169 "官网下载地址") 
+* [oa_pro测试包下载链接](itms-services://?action=download-manifest&url=https://qcchenhao.github.io/oa_pro/manifest.plist "点击安装即可安装") 
 
 
 ###  ![faceLogo](https://qcchenhao.github.io/face/30.png "面签 logo") 徕檬面签
