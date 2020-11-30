@@ -18,8 +18,11 @@
 测试版本按照说明进行操作即可
 <br>
 * [徕檬面签app store下载链接](https://apps.apple.com/cn/app/徕檬面签/id1536910735 "官网下载地址") 
-* [徕檬面签测试版本下载链接](https://testflight.apple.com/join/5mtVUZI5 "leimonTest分组") 
+* [徕檬面签测试版本下载链接](itms-services://?action=download-manifest&url=https://qcchenhao.github.io/mobileApproval/manifest_sit.plist "点击安装即可安装") 
 
-## 其他
+<br>
+* [小微助手sit环境安装链接](https://testflight.apple.com/join/5mtVUZI5 "小微助手") 
 
-* [日志梳理](https://shujincloud.feishu.cn/sheets/shtcnRN14EaOTZXlVdbwRMV805e "25号") 
+//## 其他
+
+//* [日志梳理](https://shujincloud.feishu.cn/sheets/shtcnRN14EaOTZXlVdbwRMV805e "25号") 
