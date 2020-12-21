@@ -24,6 +24,6 @@
 ###  ![mobileApproval](https://qcchenhao.github.io/mobileApproval/30.png "mobileApproval logo") 小微助手
 * [小微助手sit环境安装链接](itms-services://?action=download-manifest&url=https://qcchenhao.github.io/mobileApproval/manifest_sit.plist "点击安装即可安装") 
 
-## 其他
+## 日志
 
-* [日志梳理](https://shujincloud.feishu.cn/sheets/shtcnRN14EaOTZXlVdbwRMV805e "25号") 
+* [日志](https://shujincloud.feishu.cn/sheets/shtcnRN14EaOTZXlVdbwRMV805e "25号") 
